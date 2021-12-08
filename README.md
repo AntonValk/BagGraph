@@ -17,7 +17,7 @@ Install the dependencies from the command line with `pip`:
 pip install -r requirements.txt --progress-bar off
 ```
 
-Note: When the datasets are small enough we include them in the repository, otherwise we point to the original source where they can be downloaded. We provide all pre-processing code and the plotting code for the diagrams in the paper.
+Note: When the datasets are small enough we include them in the repository, otherwise we point to the original source where they can be downloaded. We provide all pre-processing code and the plotting code for the diagrams in the paper. [Google Drive secondary repo with full datasets for experiments 1, 2, 4.](https://drive.google.com/drive/folders/1tpzJivhFtRCxeCOYnpoqpXKSAuCyoPFG?usp=sharing)
 
 ## Training
 All our experiments occupy separate folders. To run a specific experiment go to the appropriate directory and follow the instructions below. Unless otherwise specified, the datasets are included in the experiment subfolders.
